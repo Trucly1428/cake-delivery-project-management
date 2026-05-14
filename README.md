@@ -21,5 +21,6 @@ Trưởng nhóm dự án & Phân tích nghiệp vụ
 - Timeline Planning
 
 ### Risk Management
-- Risk Event
+- Risk Identification
+- Risk Assessment
 - Risk Mitigation Plan
